@@ -1,0 +1,23 @@
+﻿  win32_platform.cpp
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(40,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(41,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(238,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(248,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(249,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(259,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(268,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(269,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(283,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(291,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(298,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(306,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(315,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(316,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(324,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(332,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(333,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(342,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(672,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  My_First_Cpp_Game.vcxproj -> C:\Users\Zak\source\repos\My_First_Cpp_Game\x64\Debug\My_First_Cpp_Game.exe
